@@ -1,0 +1,36 @@
+h1{
+text-align: center;
+height: 10px;
+margin: 10px auto;
+}
+
+/* .login-page {
+text-align: right;
+padding: 100px;
+margin: auto;
+} */
+.sidebar {
+display: inline;
+Text-align: center;
+}
+
+hr {
+margin: 25px;
+}
+
+img {
+display: inline;
+margin-left: auto;
+margin-right: auto;
+width:55px;
+height: auto;
+}
+
+li{
+display: inline;
+}
+
+/* .info {
+background-color: black;
+color: white;
+} */
